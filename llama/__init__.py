@@ -3,4 +3,5 @@
 
 from .generation import LLaMA
 from .model import ModelArgs, Transformer
+from .model_train import ModelArgs, Transformer
 from .tokenizer import Tokenizer
